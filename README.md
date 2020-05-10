@@ -1,2 +1,3 @@
 # ubuntu16.04.2_pw
-test
+## this is test
+*这是一个测试*
